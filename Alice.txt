@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 aaaHi! I'm Alice. I'm a file someone added to this repository a while ago.
+=======
+snooooo Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+>>>>>>> change_alice
 second line
